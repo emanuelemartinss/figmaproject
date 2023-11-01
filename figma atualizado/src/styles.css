@@ -69,14 +69,14 @@ body {
     justify-content: space-around;
 }
 
-.texto {
+.side-left-text{
 
     font-family: 'Roboto', sans-serif;
     font-weight: 200;
     font-size: 40px;
 }
 
-.btn {
+.side-left-btn {
     display: inline-block;
     padding: 15px 25px;
     background-color: #ff554f;
